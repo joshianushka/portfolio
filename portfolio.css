@@ -1,0 +1,64 @@
+#about{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    background-color: rgb(247, 153, 129);
+    margin-right: 20px;
+    border-radius: 40px;
+    margin-top: 40px;
+}
+#aimage{
+    width:50%;
+}
+#image1{
+    height: 250px;
+    width:100%
+}
+#atext{
+    width: 50%;
+    padding-right: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-family: cursive;
+    
+}
+#skills{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(192, 189, 189);
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 40px;
+    
+}
+h2{
+    text-decoration: underline;
+}
+#simage{
+    width: 40%;
+}
+#image2{
+    height: 100%;
+    width: 100%;
+
+}
+#stext{
+    width: 60%;
+    padding-left: 50px;
+}
+#list1{
+    font-family: cursive;
+}
+#contact{
+    background-color: aquamarine;
+    padding-left: 30px;
+
+}
+#email{
+    text-decoration: underline;
+}
+#name{
+    font-family: cursive;
+    padding-left: 10px;
+    margin-top: 0px;
+}
